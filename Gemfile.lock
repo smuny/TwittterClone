@@ -257,7 +257,7 @@ DEPENDENCIES
   chromedriver-helper
   coffee-rails (~> 4.2)
   devise (~> 4.6, >= 4.6.2)
-  gravatar_image_tag
+  gravatar_image_tag (~> 1.2)
   guard (~> 2.15)
   guard-livereload (~> 2.5, >= 2.5.2)
   jbuilder (~> 2.5)
